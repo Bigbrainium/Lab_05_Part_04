@@ -10,6 +10,6 @@ public class AgeCheck {
 
         if (age >= 21) {
             System.out.println("You get a band");
-        }.0
+        }
     }
 }
